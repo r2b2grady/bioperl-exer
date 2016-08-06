@@ -1,0 +1,31 @@
+NAME: Slc1a3|Mus
+ACC: unknown
+TEN: cgtccatgtg
+
+NAME: Epha7|Mus
+ACC: unknown
+TEN: aagcggccgg
+
+NAME: POLD2|Homo
+ACC: unknown
+TEN: cgggatgcgg
+
+NAME: CDKN2A|Homo
+ACC: unknown
+TEN: ctcctccgag
+
+NAME: Nos2|Cervus
+ACC: unknown
+TEN: ccgtgcaaac
+
+NAME: zona
+ACC: unknown
+TEN: acgagccgcg
+
+NAME: Rhoa|Rattus
+ACC: unknown
+TEN: ctcccacgga
+
+NAME: IL1B|Homo
+ACC: unknown
+TEN: accaaacctc

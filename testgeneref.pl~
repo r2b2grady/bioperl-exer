@@ -1,0 +1,10 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use Bio::DB::GenBank;
+
+my $gbh = Bio::DB::GenBank->new();
+my $seq = $gbh->get_Seq_by_acc('NP_000537.3');
+
